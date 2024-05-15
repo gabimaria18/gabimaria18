@@ -1,16 +1,13 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 👋
 
-<!--
-**gabimaria18/gabimaria18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SALVE, MEU NOME E GABI 
 
-Here are some ideas to get you started:
+ESTOU ESTUDANDO PELO ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UTILIZO ESSE ESPAÇO PARA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS ESCOLARES
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO
+
+📱 @itsnot.bibi_
+
+https://tenor.com/pt-BR/view/bistecone-twitch-gamer-gif-13609445742875631778
