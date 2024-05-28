@@ -10,5 +10,5 @@ UTILIZO ESSE ESPAÇO PARA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS ESC
 
 📱 @itsnot.bibi_
 
-![](https://tenor.com/pt-BR/view/bistecone-twitch-gamer-gif-13609445742875631778)
+![](https://media1.tenor.com/m/vN52zBYN4KIAAAAd/bistecone-twitch.gif)
 
